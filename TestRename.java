@@ -1,6 +1,6 @@
 public class TestRename {
     public static void main(String[] args) {
-        System.out.println("text4");
+        System.out.println("text5");
     }
 
 }
